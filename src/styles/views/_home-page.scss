@@ -1,0 +1,15 @@
+.home-page {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    h1 {
+        font-size: 40px;
+    }
+
+    img{
+        width: 500px;
+    }
+}

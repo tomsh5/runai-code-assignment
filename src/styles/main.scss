@@ -1,0 +1,14 @@
+//Basic
+@import './basics/base';
+
+
+//views
+@import './views/company-app';
+@import './views/home-page';
+
+
+//Components
+@import './cmps/app-header';
+@import './cmps/side-nav';
+@import './cmps/table';
+@import './cmps/modal';

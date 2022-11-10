@@ -1,0 +1,29 @@
+.company-app {
+    display: flex;
+    flex-grow: 1;
+
+    main {
+        margin: 20px;
+        flex: 1;
+        text-align: center;
+
+        h1 {
+            font-size: 40px;
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+        h2{
+            font-weight: 500;
+
+        }
+
+        table {
+            margin: 10px auto;
+            background-color: rgba(211, 211, 211, 0.813);
+
+            tr:nth-of-type(even){
+                background-color: rgb(183, 190, 246);
+            }
+        }
+    }
+}
